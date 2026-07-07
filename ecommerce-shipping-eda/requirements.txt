@@ -1,0 +1,8 @@
+# E-Commerce Shipping EDA — dependencies
+# Version ranges (not hard pins) so pip installs prebuilt wheels for your
+# Python version and avoids compiling from source.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+notebook>=7.0
